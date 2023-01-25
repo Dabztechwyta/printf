@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#ifndef _MAIN_H_
-#define _MAIN_H_
-
-int _putchar(char c);
-int _printf(const char * const format, ...);
-=======
 #ifndef MAIN_H
 #define MAIN_H
 
@@ -79,6 +72,5 @@ int print_address(va_list l, flags_t *f);
 
 /* print_percent */
 int print_percent(va_list l, flags_t *f);
->>>>>>> de19ef65497830eecce835e1e27de98dcdcbead5
 
 #endif
