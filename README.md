@@ -73,6 +73,6 @@ R : prints the rot13'ed string
 [16. * ]
 All the above options work well together.
 Authors
-* Dabztechwyta - Victor Daberechi
-* ObiFaith - Obi Faith
+* Dabztechwyta - healervic17@gmail.com
+* ObiFaith - obifth@gmail.com
 
